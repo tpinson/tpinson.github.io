@@ -20,7 +20,7 @@ a {
 }
 
 a:hover {
-  color: #22d8b6;
+  color: #6F7378;
   text-decoration: none;
 }
 
@@ -318,7 +318,7 @@ h6 {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #21413c;
+  color: #6F7378;
 }
 
 .navbar-mobile a:hover,
@@ -474,7 +474,7 @@ section {
   font-weight: 300;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #21413c;
+  color: #6F7378;
 }
 
 .section-title p {
@@ -549,7 +549,7 @@ section {
 .about h3 {
   font-weight: 400;
   font-size: 34px;
-  color: #21413c;
+  color: #6F7378;
 }
 
 .about .icon-box {
@@ -566,7 +566,7 @@ section {
   font-size: 22px;
   font-weight: 500;
   margin-left: 60px;
-  color: #21413c;
+  color: #6F7378;
 }
 
 .about .icon-box p {
@@ -578,7 +578,7 @@ section {
 #about .div-img-bg {
   padding-bottom: 30px;
   padding-top: 30px;
-  border: 20px solid #b8a07e;
+  border: 20px solid #6F7378;
 }
 
 #about .div-img-bg .about-img img {
@@ -622,7 +622,7 @@ section {
   font-weight: 400;
   padding: 0;
   margin: 20px 0;
-  color: #21413c;
+  color: #6F7378;
 }
 
 .steps .content-item p {
@@ -649,7 +649,7 @@ section {
   border: 0;
   padding: 20px;
   transition: 0.3s;
-  color: #21413c;
+  color: #6F7378;
 }
 
 .features .nav-link:hover {
@@ -717,7 +717,7 @@ section {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: #6F7378;
   line-height: 44px;
 }
 
@@ -731,11 +731,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #b8a07e;
+  border: 1px solid #6F7378;
 }
 
 .services-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #b8a07e;
+  background-color: #6F7378;
 }
 
 /*--------------------------------------------------------------
@@ -1279,7 +1279,7 @@ section {
   position: absolute;
   right: 0;
   left: 20px;
-  color: #97cac2;
+  color: #6F7378;
 }
 
 .faq .faq-list .icon-show,
@@ -1350,7 +1350,7 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #21413c;
+  color: #6F7378;
 }
 
 .contact .info p {
@@ -1585,7 +1585,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #34dfbf;
+  color: #6F7378;
 }
 
 #footer .footer-top .footer-newsletter form {
